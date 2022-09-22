@@ -3,6 +3,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/73ch801)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://anjotadena.github.io/anjotadena)
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=I'm+a+Software+Engineer)](https://git.io/typing-svg)
+
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=anjotadena)
 
 I am a full-stack software engineer. I love programming, sketching, walking, and playing dota.
