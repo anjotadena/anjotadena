@@ -11,7 +11,7 @@ I am a full-stack software engineer. I love programming, sketching, walking, and
 
 As a software engineer, I love solving problems.
 
-<img align="right" alt="GIF" src="https://miro.medium.com/max/750/0*7Q3yvSIv_t0ioJ-Z.gif?raw=true" width="408" height="318" />
+<img align="right" alt="GIF" src="https://github.com/anjotadena/anjotadena/blob/main/assets/coding2.gif?raw=true" width="408" height="318" />
   
 
 **Talking about Personal Stuffs:**
