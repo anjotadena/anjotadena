@@ -3,6 +3,9 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/73ch801)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://anjotadena.github.io/anjotadena)
 
+
+<p align="left"><img src="https://komarev.com/ghpvc/?username=anjotadena&label=Profile%20views&color=0e75b6&style=flat" alt="anjotadena" /> </p>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=I'm+a+Fullstack+Developer)](https://git.io/typing-svg)
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=anjotadena)
