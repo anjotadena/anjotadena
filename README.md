@@ -30,7 +30,14 @@ Beyond coding, I enjoy sketching, walking, and playing Dota.
 ---
 
 ### 📊 GitHub Insights
-
+<p align="left">
+  <a href="https://github.com/anjotadena/lalamove-php-api">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anjotadena&repo=lalamove-php-api" />
+  </a>
+  <a href="https://github.com/anjotadena/laravel-docker-base">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anjotadena&repo=laravel-docker-base" />
+  </a>
+</p>
 <p align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anjotadena&show_icons=true&hide_border=true&count_private=true&include_all_commits=true/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjotadena&layout=compact&langs_count=8&hide_border=true"/>
@@ -44,25 +51,16 @@ Beyond coding, I enjoy sketching, walking, and playing Dota.
   <a href="https://github.com/anjotadena/anjodots">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=anjotadena&repo=anjodots" />
   </a>
-  <a href="https://github.com/anjotadena/clear-ui-toolkit">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anjotadena&repo=clear-ui-toolkit" />
-  </a>
-</p>
-
-<p align="left">
-  <a href="https://github.com/anjotadena/ucc-docs-parser">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anjotadena&repo=ucc-docs-parser" />
-  </a>
-  <a href="https://github.com/anjotadena/math-bubbles">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anjotadena&repo=math-bubbles" />
+  <a href="https://github.com/anjotadena/anjo-portfolio-next">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anjotadena&repo=anjo-portfolio-next" />
   </a>
 </p>
 
 ---
 
 ### 💡 Tech Stack & Interests
-- **Languages:** C#, TypeScript, JavaScript, Python, SCSS  
-- **Frameworks:** Angular, React, ASP.NET Core  
+- **Languages:** C#, TypeScript, JavaScript, PHP, Golang, Python, SCSS  
+- **Frameworks:** Angular, React, ASP.NET Core, Laravel
 - **Focus Areas:** Fullstack Development, Cloud(Azure, AWS), Serverless, DevOps, System Design, Clean Architecture  
 - **Interests:** AI, SaaS, and startup building with **AT Digital Labs**  
 
