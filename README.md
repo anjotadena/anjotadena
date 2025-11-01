@@ -25,11 +25,9 @@ Beyond coding, I enjoy sketching, walking, and playing Dota.
 - 📧 Reach me at: **tadena.anjo@gmail.com**  
 - 📄 [Resume](_)
 
-<img align="right" src="https://github.com/anjotadena/anjotadena/blob/main/assets/coding2.gif?raw=true" width="380"/>
-
 ---
 
-### 📊 GitHub Insights
+### 📌 Featured Projects
 <p align="left">
   <a href="https://github.com/anjotadena/lalamove-php-api">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=anjotadena&repo=lalamove-php-api" />
@@ -42,10 +40,6 @@ Beyond coding, I enjoy sketching, walking, and playing Dota.
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anjotadena&show_icons=true&hide_border=true&count_private=true&include_all_commits=true/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjotadena&layout=compact&langs_count=8&hide_border=true"/>
 </p>
-
----
-
-### 📌 Featured Projects  
 
 <p align="left">
   <a href="https://github.com/anjotadena/anjodots">
