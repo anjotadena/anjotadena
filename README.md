@@ -1,63 +1,68 @@
-### <samp>&gt; Hi there, I'm <a href="https://anjotadena.github.io/anjotadena" target="_blank">Anjo Tadena</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
+# Anjo Tadena
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/73ch801)
-[![Website](https://img.shields.io/badge/-Portfolio-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://anjotadena.github.io/anjotadena)
-![Profile Views](https://komarev.com/ghpvc/?username=anjotadena&label=Profile%20Views&color=0e75b6&style=flat)
+### Senior Software Engineer · AI Integration · Product Builder
 
----
+**I turn complex business workflows into software people can rely on.**
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=1035&lines=Fullstack+Developer+%7C+Founder+of+AT+Digital+Labs+%7C+Problem+Solver)](https://git.io/typing-svg)
+[Portfolio](https://anjotadena.github.io/anjotadena) · [LinkedIn](https://www.linkedin.com/in/73ch801) · [Email](mailto:tadena.anjo@gmail.com)
 
 ---
 
-### 👋 Welcome!  
+I'm a full-stack software engineer based in Cebu, Philippines, with **10+ years of experience** building web applications, APIs, and business systems. My core stack is **C#, ASP.NET Core, Angular, and React**, supported by hands-on experience with AWS, Azure, and CI/CD.
 
-I’m **Anjo Tadena**, a passionate **Fullstack Developer** and **Founder of [AT Digital Labs](#)**.  
-I love building scalable software, solving problems, and leading innovative projects.  
-Beyond coding, I enjoy sketching, walking, and playing Dota.  
+I work across architecture, implementation, and delivery—and lead developers through technical decisions, code reviews, and mentoring. I'm especially interested in combining reliable software engineering with practical AI integration.
+
+## What I bring
+
+- **End-to-end engineering:** Translate business requirements into maintainable APIs, interfaces, data models, and deployment workflows.
+- **Technical leadership:** Guide implementation, review trade-offs, and help developers deliver with clear standards and shared ownership.
+- **Production focus:** Build with tenant isolation, access control, performance, observability, and automated testing in mind.
+- **Product thinking:** Connect technical decisions to the people using the software and the operational problems it needs to solve.
+
+## What I'm building
+
+### Unexaro — Modular business software
+
+Building a multi-tenant ERP platform under **[AT Digital Hub](https://atdigitalhub.com)**, with work spanning HRIS, payroll, POS, inventory, and industry-specific operations.
+
+The goal: help businesses manage connected workflows through modules that fit their needs, with room to grow as their operations evolve.
+
+**Engineering focus:** tenant-scoped data access, role-based permissions, reusable components, and configurable business workflows.
+
+### Asterweave — Agent-assisted software delivery
+
+Developing workflows that coordinate requirements analysis, implementation, testing, and review with AI agents.
+
+**Engineering focus:** clear acceptance criteria, bounded autonomy, review gates, and traceable progress from task to pull request.
+
+## Selected repositories
+
+| Repository | Area |
+| --- | --- |
+| [lalamove-php-api](https://github.com/anjotadena/lalamove-php-api) | PHP API integration |
+| [laravel-docker-base](https://github.com/anjotadena/laravel-docker-base) | Laravel and Docker development setup |
+| [anjo-portfolio-next](https://github.com/anjotadena/anjo-portfolio-next) | Personal portfolio |
+| [anjodots](https://github.com/anjotadena/anjodots) | Development environment and dotfiles |
+
+## Technical toolkit
+
+| Area | Technologies & practices |
+| --- | --- |
+| Backend | C#, ASP.NET Core, Node.js, Laravel, REST APIs, microservices |
+| Frontend | TypeScript, Angular, React, Next.js, SCSS |
+| Data | SQL Server, PostgreSQL, MongoDB, EF Core, Dapper |
+| Cloud & delivery | AWS, Azure, Docker, GitHub Actions, Azure DevOps, CI/CD |
+| Quality & architecture | Automated testing, code reviews, system design, clean architecture, security |
+| AI engineering | LLM integration, agent workflows, AI-assisted development |
+
+## Let's connect
+
+I'm interested in **hands-on technical leadership, AI-integrated products, and conversations with potential customers, collaborators, and investors** who care about useful business software.
+
+For engineering opportunities, product demos, or partnership discussions: **[tadena.anjo@gmail.com](mailto:tadena.anjo@gmail.com)**.
+
+Outside work, you'll find me sketching, walking, or playing Dota.
 
 ---
 
-### 🔹 What I’m up to
-- ⚡ Building products under **AT Digital Labs**, my startup company  
-- 📚 Sharpening my Data Structures & Algorithms skills on [LeetCode](https://leetcode.com/techboi)  
-- 💬 Open to collaboration, knowledge-sharing, and startup opportunities  
-- 📧 Reach me at: **tadena.anjo@gmail.com**  
-- 📄 [Resume](_)
-
----
-
-### 📌 Featured Projects
-<p align="left">
-  <a href="https://github.com/anjotadena/lalamove-php-api">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anjotadena&repo=lalamove-php-api" />
-  </a>
-  <a href="https://github.com/anjotadena/laravel-docker-base">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anjotadena&repo=laravel-docker-base" />
-  </a>
-</p>
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anjotadena&show_icons=true&hide_border=true&count_private=true&include_all_commits=true/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjotadena&layout=compact&langs_count=8&hide_border=true"/>
-</p>
-
-<p align="left">
-  <a href="https://github.com/anjotadena/anjodots">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anjotadena&repo=anjodots" />
-  </a>
-  <a href="https://github.com/anjotadena/anjo-portfolio-next">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anjotadena&repo=anjo-portfolio-next" />
-  </a>
-</p>
-
----
-
-### 💡 Tech Stack & Interests
-- **Languages:** C#, TypeScript, JavaScript, PHP, Golang, Python, SCSS  
-- **Frameworks:** Angular, React, ASP.NET Core, Laravel
-- **Focus Areas:** Fullstack Development, Cloud(Azure, AWS), Serverless, DevOps, System Design, Clean Architecture  
-- **Interests:** AI, SaaS, and startup building with **AT Digital Labs**  
-
----
-
-✨ *“Code with purpose. Build with passion.”*
+*Build with purpose. Ship with care.*
