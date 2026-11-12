@@ -4,7 +4,7 @@
 
 **I build business software and AI-assisted engineering workflows—from architecture to delivery.**
 
-[View my portfolio](https://anjotadena.github.io/anjotadena) · [Connect on LinkedIn](https://www.linkedin.com/in/73ch801) · [Get in touch](mailto:tadena.anjo@gmail.com)
+[View my portfolio](https://anjotadena.com) · [Connect on LinkedIn](https://www.linkedin.com/in/anjotadena) · [Get in touch](mailto:tadena.anjo@gmail.com)
 
 ---
 
@@ -80,7 +80,7 @@ These repositories provide additional entry points into my work across integrati
 
 **For customers and partners:** Let's discuss your operational workflows, explore a Unexaro demonstration, or talk about product collaboration and investment opportunities.
 
-**[tadena.anjo@gmail.com](mailto:tadena.anjo@gmail.com)** · [LinkedIn](https://www.linkedin.com/in/73ch801) · [Portfolio](https://anjotadena.github.io/anjotadena)
+**[tadena.anjo@gmail.com](mailto:tadena.anjo@gmail.com)** · [LinkedIn](https://www.linkedin.com/in/anjotadena) · [Portfolio](https://anjotadena.com)
 
 Outside software, I enjoy sketching, walking, and playing Dota.
 
