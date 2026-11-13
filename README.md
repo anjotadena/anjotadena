@@ -8,7 +8,7 @@
 
 ---
 
-I'm a full-stack engineer based in **Cebu, Philippines**, with **12+ years of experience** building web applications, APIs, and business systems. My core stack is **C#, ASP.NET Core, Angular, and React**, with hands-on experience in **AWS, Azure, and CI/CD**.
+I'm a full-stack engineer based in **Bukidnon Philippines**, with **12+ years of experience** building web applications, APIs, and business systems. My core stack is **C#, ASP.NET Core, Angular, and React**, with hands-on experience in **AWS, Azure, and CI/CD**.
 
 I lead developers, work through architectural trade-offs, and stay hands-on with implementation. My focus is practical: understand the workflow, build a maintainable solution, and make it easier to operate and improve.
 
